@@ -1,0 +1,15 @@
+$primary: #771f3d;
+$light: #b64168;
+$green: #17ebb8;
+
+// Custom
+$custom-xapp-colors: (
+  'primary': $primary,
+  'light': $light,
+  'success': $green
+);
+
+// xApp example styles page styling
+body.appdemo {
+  background: $light;
+}
